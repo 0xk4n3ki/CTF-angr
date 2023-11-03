@@ -1,12 +1,12 @@
 ## Challenge Description
 
-## HashMe
-
- ### VULNCON CTF 2020
+## HashMe(VULNCON CTF 2020)
 
 I hash I xor what else can I do?
 
 Flag format: vulncon{flag}
+
+Download the Binary from [here](hashMe)
 
 
 <img src="target.jpg">
