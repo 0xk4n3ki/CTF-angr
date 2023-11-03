@@ -8,7 +8,7 @@ Author: Th3R4nd0m
 
 Download the Binary from [here](thou_shall_pass)
 
-<img src="target.jpg">
+<img src="./images/target.jpg">
 
 ```python
 import angr
@@ -32,4 +32,4 @@ else:
     print("[-] Could not found the solution")
 ```
 
-<img src="result.jpg">
+<img src="./images/result.jpg">

@@ -9,7 +9,7 @@ Flag format: vulncon{flag}
 Download the Binary from [here](hashMe)
 
 
-<img src="target.jpg">
+<img src="./images/target.jpg">
 
 ```python
 import angr
@@ -34,4 +34,4 @@ else:
 
 ```
 
-<img src="result.jpg">
+<img src="./images/result.jpg">
