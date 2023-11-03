@@ -1,6 +1,8 @@
 ## Challenge Description
 
-HashMe
+## HashMe
+
+ ### VULNCON CTF 2020
 
 I hash I xor what else can I do?
 
