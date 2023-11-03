@@ -6,6 +6,8 @@ For thou to pass, the code might not but be entered
 
 Author: Th3R4nd0m
 
+Download the Binary from [here](thou_shall_pass)
+
 <img src="target.jpg">
 
 ```python
